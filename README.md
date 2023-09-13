@@ -2,4 +2,4 @@ Pré-visualização do website
 
 URL: https://hebergustavo.github.io/Website-Museum/
 
-![MuseuNacional](https://github.com/heberGustavo/Websites/assets/44476616/1f4b6d54-0d34-497c-82ce-954ce4f96e90)
+![image](https://github.com/heberGustavo/Website-Museum/assets/44476616/97bf39f8-58ab-442b-9273-ec5706c5a0d1)
